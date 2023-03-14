@@ -1,0 +1,87 @@
+body {
+    height: 100%;
+    background: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nav {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.kotak1 {
+    width: 1250px;
+    height: 515px;
+    margin: 0px 10px 0px 50px;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+h4 {
+    color:white;
+    font-size: 19px;
+}
+
+.kotakinput {
+    display: flex;
+    color: white;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.kotakinput .input {
+    padding: 10px;
+    font-size: 1.1em;
+    outline: none;
+    border: 1px solid #c83232;
+}
+
+.kotakinput .textarea {
+    padding: 10px;
+    font-size: 1.1em;
+    outline: none;
+    border: 1px solid #c83232;
+}
+
+.sosmed {
+    color: white;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+iframe {
+    width: 550px;
+    height: 250px;
+    padding: 15px 15px 25px 15px;
+    padding-bottom: 25px;
+}
+
+img {
+    width: 30px;
+}
+
+.jam {
+    color: white;
+    padding-right:10px;
+    padding-bottom: 20px;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    background-color: #c83232;
+    padding: 5px 0 5px 0;
+}
