@@ -3,13 +3,6 @@ body {
     background: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.nav {
-    text-decoration: none;
-    color: black;
-    font-size: 18px;
-    text-align: center;
-    padding-top: 10px;
-}
 
 a {
     text-decoration: none;
@@ -18,7 +11,7 @@ a {
 .kotak1 {
     width: 1250px;
     height: 515px;
-    margin: 0px 10px 0px 50px;
+    margin: 50px 10px 50px 50px;
 }
 
 h1 {
@@ -44,14 +37,14 @@ h4 {
 
 .kotakinput .input {
     padding: 10px;
-    font-size: 1.1em;
+    font-size: 16px;
     outline: none;
     border: 1px solid #c83232;
 }
 
 .kotakinput .textarea {
     padding: 10px;
-    font-size: 1.1em;
+    font-size: 16px;
     outline: none;
     border: 1px solid #c83232;
 }
@@ -67,10 +60,6 @@ iframe {
     height: 250px;
     padding: 15px 15px 25px 15px;
     padding-bottom: 25px;
-}
-
-img {
-    width: 30px;
 }
 
 .jam {
