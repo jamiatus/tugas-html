@@ -1,0 +1,32 @@
+
+h2{
+	font-size: 2rm;
+}
+h2:hover{
+	color: red;
+}
+.ket{
+	color: gray;
+}
+.judul{
+	font-size: 18px;
+	font-weight: bold;
+}
+.produk-foto:hover{
+	transform: scale(1.5);
+}
+.produk:hover{
+	background: #e4e4e4;
+}
+
+.promo{
+	margin-left: 10px;
+	padding: 3px;
+	background-color: red;
+	color: white;
+	font-size: 12px;
+}
+s{
+	color: gray;
+	margin-left: 10px;
+}
