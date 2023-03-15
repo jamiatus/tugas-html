@@ -30,3 +30,45 @@ s{
 	color: gray;
 	margin-left: 10px;
 }
+
+/* Andika CSS */
+
+.galery-table {
+	border-radius: 15px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.container-content {
+	text-align: center;
+}
+
+.event-img {
+	display: block;
+	margin: auto;
+	width: 180px;
+}
+
+.event-img:hover {
+	transform: scale(1.2);
+}
+
+.galery-img {
+	display: block;
+	margin: auto;
+	max-width: 280px;
+}
+
+.galery-img:hover {
+	transform: scale(1.5);
+	border-radius: 5px;
+}
+
+.galery-title {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.galery-subtitle {
+	color: gray;
+}
